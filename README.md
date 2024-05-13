@@ -5,7 +5,7 @@ Here are some of the small projects I created using JavaScript.
 
 Projects
 
-[Pizza Menu] {https://github.com/Laziej/JavaScript-Projects/tree/main/Pizza_Project}
+[Pizza Menu] (https://github.com/Laziej/JavaScript-Projects/tree/main/Pizza_Project)
 [Tic-Tac-Toe Game]
 [Calculator]
 
