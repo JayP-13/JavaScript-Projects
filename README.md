@@ -7,7 +7,7 @@ Projects
 
 [Pizza Menu](https://github.com/Laziej/JavaScript-Projects/tree/main/Pizza_Project)
 [Tic-Tac-Toe Game](https://github.com/Laziej/JavaScript-Projects/tree/main/TicTacToe)
-[Calculator]
+[Calculator](https://github.com/Laziej/JavaScript-Projects/tree/main/Calculator%20Project)
 
 Pizza Menu
 This project is a menu used to order pizza with various selection of toppings.  It then takes the input information and caluclates a price for the order.
